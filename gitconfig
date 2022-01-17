@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = julie.freche@getaround.com
+	name = Julie Freche
